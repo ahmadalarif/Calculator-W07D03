@@ -1,3 +1,7 @@
+
+
+
+
 class Calculator{
     constructor(){
         this.range =[];
@@ -19,3 +23,5 @@ console.log(`prime number ${this.primes}`);
 }
 let test = new Calculator();
 test.getPrime(50)
+
+
